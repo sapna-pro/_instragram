@@ -7,7 +7,7 @@
 
 ### Clone
 
-- Clone this repo to your local machine using `https://github.com/neu-mis-info6150-fall-2020/final-project-group-8`
+- Clone this repo to your local machine using `git@github.com:sapna-pro/_instragram.git`
 
 ### Setup
 
